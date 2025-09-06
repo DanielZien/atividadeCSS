@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+}
+
+#logo{
+    color: gold;
+    
+}
+
+#logo:hover{
+    color: #000;
+    background-color: blueviolet;
+}

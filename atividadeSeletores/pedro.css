@@ -1,0 +1,38 @@
+h1, p{
+    color:blue;
+}
+
+p a {
+    color: yellowgreen;
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: whitesmoke;
+    margin: 50px;
+    height: 600px;
+    border-radius: 25px;
+    padding: 5px;
+}
+
+.texto {
+    margin: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: start;
+}
+
+#aiai{
+    text-align: end;
+    font-size: 34px;
+}
+
+a {
+    text-decoration: wavy;
+}
