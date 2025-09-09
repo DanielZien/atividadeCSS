@@ -1,0 +1,26 @@
+/* primeiro elemento */
+.lista1 li:first-child{
+    background: #caf;
+}
+/* ultimo elemento */
+.lista1 li:last-child {
+    background: #cfa;
+}
+/* terceiro elemento */
+.lista1 li:nth-child(3){
+    background: #fda;
+}
+/* elementos impares */
+.lista2 li:nth-child(odd){
+    background: #caf;
+}
+/* elementos pares */
+.lista2 li:nth-child(even){
+    background: #adf;
+}
+
+
+/* de 4 em 4 */
+.lista2 li:nth-child(4n){
+    background: #caf;
+}
